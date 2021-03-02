@@ -1,0 +1,23 @@
+{
+  "name": "REST_API_NodeJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizulislamfair/REST_API_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "Faizul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizulislamfair/REST_API_NodeJS/issues"
+  },
+  "homepage": "https://github.com/faizulislamfair/REST_API_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
